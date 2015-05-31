@@ -1,0 +1,21 @@
+[submodule "bash-base"]
+	path = bash-base
+	url = https://github.com/dotty-io/bash-base.git
+[submodule "emacs-base"]
+	path = emacs-base
+	url = https://github.com/dotty-io/emacs-base.git
+[submodule "bash-snout-prompt"]
+	path = bash-snout-prompt
+	url = https://github.com/dotty-io/bash-snout-prompt.git
+[submodule "ssh-base"]
+	path = ssh-base
+	url = https://github.com/dotty-io/ssh-base.git
+[submodule "ssh-persistent-connections"]
+	path = ssh-persistent-connections
+	url = https://github.com/dotty-io/ssh-persistent-connections.git
+[submodule "git-base"]
+	path = git-base
+	url = https://github.com/dotty-io/git-base.git
+[submodule "bash-homebrew-bashcompletion"]
+	path = bash-homebrew-bashcompletion
+	url = https://github.com/dotty-io/bash-homebrew-bashcompletion.git
